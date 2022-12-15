@@ -10,7 +10,7 @@
 	"author": "LucasWG94 <LucasWG94@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.17.2"
+		"express": "^4.17.3"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.13",
